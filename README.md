@@ -14,6 +14,8 @@ Contains the brake control system implementation using a Tesla Gen2 iBooster uni
 
 <!-- TODO: Add image of iBooster installation in vehicle brake system -->
 <!-- <img width="800" alt="iBooster Installation" src="path/to/ibooster-installation.jpg" /> -->
+<img width="1360" height="904" alt="image" src="https://github.com/user-attachments/assets/84399a09-61f9-4d6f-99c7-7577355031a5" />
+
 
 - **`Iboostercontrolnotworkingjustthrottlepostion/`**
   - `Iboostercontrolnotworkingjustthrottlepostion.ino` - Tesla Gen2 iBooster CAN bus controller
@@ -21,6 +23,10 @@ Contains the brake control system implementation using a Tesla Gen2 iBooster uni
     - Uses MCP2515 CAN transceiver with Arduino Mega
     - Implements serial commands for brake control (apply/release/hold)
     - Monitors brake rod position and status via 0x39D CAN messages
+
+https://github.com/user-attachments/assets/6a48c70b-f8df-4b89-a8cc-46501188acb3
+
+
 
 <!-- TODO: Add image of brake control CAN bus setup or wiring diagram -->
 <!-- <img width="800" alt="CAN Bus Wiring" src="path/to/can-bus-wiring.jpg" /> -->
@@ -30,6 +36,8 @@ Complete throttle control system with Arduino firmware and mechanical CAD design
 
 <!-- TODO: Add image of throttle mechanism with motor actuator and sensor -->
 <!-- <img width="800" alt="Throttle Actuator System" src="path/to/throttle-actuator.jpg" /> -->
+https://github.com/user-attachments/assets/ef57e486-5c61-4791-867c-b409ffe35655
+
 
 #### **Throttle Arduino Sketches/**
 Arduino firmware for throttle control and sensor testing:
@@ -71,22 +79,33 @@ Mechanical design files for sensor mounting and bracket systems:
 <!-- TODO: Add example 3D scan visualization showing brake system context -->
 <!-- <img width="800" alt="3D Scan - Brake System Context" src="path/to/brake-scan-view.jpg" /> -->
 
+<img width="1136" height="728" alt="image" src="https://github.com/user-attachments/assets/f8f870e6-48ff-4ad3-b968-bc26fc21c1af" />
+
+
 - **Brakes/**
   - iBooster context scans with corrected axis
   - Full detail scans of brake system mounting area
   - Formats: `.obj`, `.mtl`, `.SLDPRT`
 
+<img width="740" height="596" alt="image" src="https://github.com/user-attachments/assets/25cef541-47de-4266-a575-b786acf2a24f" />
+
 - **Dashboard/**
   - Dashboard assembly with left interior pillar trim
   - Used for HMI (Human-Machine Interface) placement and integration
+
+<img width="668" height="658" alt="image" src="https://github.com/user-attachments/assets/9b4dab05-5789-4412-b8bb-e23bf8da60ba" />
 
 - **Footwell/**
   - Footwell area scans with trims installed
   - Critical for understanding pedal replacement constraints and mounting locations
 
+<img width="636" height="636" alt="image" src="https://github.com/user-attachments/assets/d5c4ebc8-5dca-4373-9ded-2cb594c38e41" />
+
 - **Insight behind trunk empty space/**
   - Trunk empty space scans for component placement
-  - Potential location for control electronics and actuators
+  - Potential location for 12V battery relocation
+
+<img width="612" height="706" alt="image" src="https://github.com/user-attachments/assets/c2c3084f-716f-465c-82b9-9fba1ccc8037" />
 
 - **UI (Between two seats parking brake area)/**
   - Area between seats where parking brake is located
