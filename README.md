@@ -110,6 +110,12 @@ Mechanical design files for sensor mounting and bracket systems:
 - **UI (Between two seats parking brake area)/**
   - Area between seats where parking brake is located
   - Candidate location for alternative control interface placement
+ 
+<img width="820" height="648" alt="image" src="https://github.com/user-attachments/assets/d8cf2461-0bcb-47a1-8b85-ad2973ec1331" />
+
+- **Leftwheelwellclutchmastercyclinderarea**
+  - Wheel well area where the clutch master cylinder is on manual versions of the car
+  - Candidate location for throttle actuator 
 
 <!-- TODO: Add image of footwell area or dashboard showing integration points -->
 <!-- <img width="800" alt="Footwell Integration" src="path/to/footwell-integration.jpg" /> -->
