@@ -64,12 +64,20 @@ Arduino firmware for throttle control and sensor testing:
 #### **Throttle CAD work/**
 Mechanical design files for sensor mounting and bracket systems:
 
+<img width="414" height="302" alt="image" src="https://github.com/user-attachments/assets/da6b3b95-1d89-4a1e-aba0-2b4d755f10ae" />
+
+- Holds Diametric Magnet for sensor
+  
+<img width="1202" height="666" alt="image" src="https://github.com/user-attachments/assets/f6135f7b-4f9e-4f0a-91d9-1d19eeba38f0" />
+
 - Sensor support bracket designs (v2, v3, v5)
 - Files in multiple formats: `.SLDPRT` (SolidWorks), `.STL`, `.3MF`
 - Key components:
   - `SensorSupportbracketv5covered.STL/.3MF` - Latest sensor mount design
   - `NoarmCC.SLDPRT` - Cruise control bracket without arm
   - `IntialCCbracket.SLDPRT` - Initial cruise control bracket concept
+
+  
 
 <!-- TODO: Add rendered image of CAD bracket designs or 3D printed parts -->
 <!-- <img width="800" alt="Sensor Support Bracket v5" src="path/to/bracket-v5.jpg" /> -->
