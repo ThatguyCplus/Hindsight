@@ -26,7 +26,10 @@ Contains the brake control system implementation using a Tesla Gen2 iBooster uni
 
 https://github.com/user-attachments/assets/6a48c70b-f8df-4b89-a8cc-46501188acb3
 
+- **`Adaptor CAD`**
 
+
+  <img width="746" height="678" alt="image" src="https://github.com/user-attachments/assets/cd1c8ee1-4786-47af-b2cf-92761b50c19b" />
 
 <!-- TODO: Add image of brake control CAN bus setup or wiring diagram -->
 <!-- <img width="800" alt="CAN Bus Wiring" src="path/to/can-bus-wiring.jpg" /> -->
@@ -62,7 +65,6 @@ Arduino firmware for throttle control and sensor testing:
 Mechanical design files for sensor mounting and bracket systems:
 
 - Sensor support bracket designs (v2, v3, v5)
-- Cruise control bracket designs
 - Files in multiple formats: `.SLDPRT` (SolidWorks), `.STL`, `.3MF`
 - Key components:
   - `SensorSupportbracketv5covered.STL/.3MF` - Latest sensor mount design
